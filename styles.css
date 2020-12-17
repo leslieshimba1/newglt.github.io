@@ -1,0 +1,88 @@
+body{
+background: #f4f4f4;
+margin: 0;
+}
+.link-title{
+text-decoration: none;
+font-size: 24px;
+color: #ff0000;
+}
+
+.container{
+width: 780px;
+margin: 0 auto;
+background: #fff;
+}
+.header{
+padding: 20px 0 20px 40px;
+border: 2px solid black;
+}
+.menu{
+background: #3b7687;
+padding: 6px 0 6px 40px;
+}
+.menu a{
+color: #c5d6db;
+text-decoration: none;
+font-size: 14px;
+font-family: "Arial Narrow","Myriad Pro";
+}
+.menu a:hover{
+color: pink;
+}
+aside{
+	float: left;
+	width: 120px;
+	padding: 30px 0px 0px 40px;
+	
+}
+
+h1{
+margin: 0px;
+color: #869843;
+font-size: 24px;
+font-family: "Arial Narrow","Myriad Pro";
+font-weight: normal;
+}
+.main{
+margin: 0 0 0 180px;
+padding: 35px 40px 30px 0;
+color: #444444;
+font-family: "georgia";
+font-size: 13px;
+line-height: 18px;
+text-emphasis: justify;
+}
+.main a:hover{
+color: #444444;
+}
+#home-image img{
+width:100%;
+
+}
+
+footer{
+padding:6px 40px 6px 40px;
+background: #d6d6d6;
+font-family: "lucida sans unicode";
+color: #444444;
+font-size: 11px;
+text-decoration: right;
+}
+footer a{
+text-decoration: none;
+color: #262626;
+}
+.separator{
+color: #ffffff;
+font-size: 11px;
+}
+form{
+margin-left: 25%;
+margin-right: 25%;
+width: 50%;
+}
+
+
+
+
